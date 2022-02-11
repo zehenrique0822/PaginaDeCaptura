@@ -1,2 +1,1 @@
-# p-ginadecaptura
-Página de Captura
+# Página de Captura
