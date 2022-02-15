@@ -2,8 +2,8 @@
 
 Tecnologias utilizadas para construção:
 
-HTML5 - Como linguagem de marcação.
-CSS3 - Para estilização de todos os componentes e responsividade.
+- HTML5 - Como linguagem de marcação.
+- CSS3 - Para estilização de todos os componentes e responsividade.
 
 Pode ser acessado através de: https://zehenrique0822.github.io/paginadecaptura/
 
